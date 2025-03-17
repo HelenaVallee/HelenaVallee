@@ -1,4 +1,4 @@
-👋 Hi, I'm Helena V.  
+👋 Hi, I'm Helena  
 🚀 AI & Cybersecurity | Digital Privacy & Health Tech | Ethics & Strategy  
 
 💡 Law meets AI & cybersecurity—exploring tech’s impact on privacy & health.  
