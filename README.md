@@ -13,13 +13,11 @@ I'm an **AI builder & strategist** focused on creating **privacy-first AI tools*
 
 ## 🛠️ Current Projects  
 🔹 **Peak Optimizer** – AI-powered tool to enhance productivity & well-being  
-🔹 **Privacy-First AI Solutions** – Developing tools that protect user autonomy  
-🔹 **Human-Centered AI Research** – Exploring AI’s role in mental clarity & cognitive performance  
+🔹 **Privacy-First AI Solutions** – Developing tools that protect user autonomy   
 
 ## 📖 Research & Development Focus  
-🔹 **Building AI-driven tools for wellness & productivity**  
-🔹 **Python for AI automation & intelligent assistants**  
-🔹 **Optimizing user experience in AI-powered applications**  
+🔹 **Human-Centered AI Research** – Exploring AI’s role in user experience & cognitive performance
+🔹 **Python for AI automation & intelligent assistants**   
 🔹 **Privacy-first development best practices**  
 
 ## 🚀 Tech & Tools I Use  
