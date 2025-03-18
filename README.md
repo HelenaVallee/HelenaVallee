@@ -4,7 +4,7 @@
 🔹 Ethical Innovation for a Safer, Smarter Digital World  
 
 🔍 About Me  
-I'm an AI builder & strategist** focused on creating **privacy-first AI tools** that enhance **well-being, productivity, and ethical digital experiences.
+I'm an AI builder & strategist** focused on creating privacy-first AI tools that enhance well-being, productivity, and ethical digital experiences.
 
 My work revolves around:  
 ✔ **AI for human optimization** – Enhancing well-being & productivity through AI  
